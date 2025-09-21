@@ -1,0 +1,110 @@
+{
+  "Toyota": {
+    "pos": 53,
+    "neg": 14,
+    "neu": 5,
+    "n": 72
+  },
+  "Ford": {
+    "pos": 27,
+    "neg": 8,
+    "neu": 4,
+    "n": 39
+  },
+  "BMW": {
+    "pos": 24,
+    "neg": 6,
+    "neu": 8,
+    "n": 38
+  },
+  "Honda": {
+    "pos": 25,
+    "neg": 7,
+    "neu": 4,
+    "n": 36
+  },
+  "Mercedes": {
+    "pos": 7,
+    "neg": 3,
+    "neu": 10,
+    "n": 20
+  },
+  "Hyundai": {
+    "pos": 9,
+    "neg": 5,
+    "neu": 4,
+    "n": 18
+  },
+  "Ram": {
+    "pos": 5,
+    "neg": 4,
+    "neu": 4,
+    "n": 13
+  },
+  "Nissan": {
+    "pos": 8,
+    "neg": 2,
+    "neu": 3,
+    "n": 13
+  },
+  "GM": {
+    "pos": 3,
+    "neg": 5,
+    "neu": 3,
+    "n": 11
+  },
+  "Kia": {
+    "pos": 4,
+    "neg": 4,
+    "neu": 0,
+    "n": 8
+  },
+  "Chevrolet": {
+    "pos": 5,
+    "neg": 3,
+    "neu": 0,
+    "n": 8
+  },
+  "Volkswagen": {
+    "pos": 3,
+    "neg": 1,
+    "neu": 4,
+    "n": 8
+  },
+  "Tesla": {
+    "pos": 7,
+    "neg": 0,
+    "neu": 0,
+    "n": 7
+  },
+  "Volvo": {
+    "pos": 2,
+    "neg": 2,
+    "neu": 1,
+    "n": 5
+  },
+  "Dodge": {
+    "pos": 2,
+    "neg": 1,
+    "neu": 1,
+    "n": 4
+  },
+  "Jeep": {
+    "pos": 3,
+    "neg": 0,
+    "neu": 0,
+    "n": 3
+  },
+  "Rivian": {
+    "pos": 1,
+    "neg": 0,
+    "neu": 0,
+    "n": 1
+  },
+  "Chrysler": {
+    "pos": 1,
+    "neg": 0,
+    "neu": 0,
+    "n": 1
+  }
+}

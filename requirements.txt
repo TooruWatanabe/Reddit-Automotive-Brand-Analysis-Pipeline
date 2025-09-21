@@ -1,0 +1,8 @@
+crewai>=0.41.0
+crewai-tools>=0.4.0
+praw
+python-dotenv
+pandas
+matplotlib
+wordcloud
+nltk
